@@ -1,3 +1,5 @@
+*NB: This is a Kudobuzz fork of [stripe/stripe-node](https://github.com/stripe/stripe-node)*
+
 # Stripe Node.js Library
 
 [![Version](https://img.shields.io/npm/v/stripe.svg)](https://www.npmjs.org/package/stripe)
